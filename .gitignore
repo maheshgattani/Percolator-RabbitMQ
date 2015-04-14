@@ -1,0 +1,9 @@
+*.py[co]
+
+# General logs
+*.log
+
+# Data files
+*.csv
+*.json
+*.yaml

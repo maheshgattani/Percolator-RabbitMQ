@@ -1,0 +1,12 @@
+producer:
+  exchange: test-exchange
+  exchange_type: topic
+  queue: test-queue
+  routing_key: eds.test
+
+rabbitmq:
+  username: guest
+  password: guest
+  host: localhost
+  port: 5672
+  virtual_host: /
