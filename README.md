@@ -13,4 +13,4 @@ You will need to update config.yaml to your values.
 
 You will need Tornado and RabbitMQ installed. Test are run using py.test
 
-Python version: 2.6.6 Tornado version: 3.1
+Python version: 2.6.6 Tornado version: 3.1 Pika version: 0.9.14
