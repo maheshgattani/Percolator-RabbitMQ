@@ -12,3 +12,5 @@ Run using `python publisher_app.py --config_file config.yaml`
 You will need to update config.yaml to your values.
 
 You will need Tornado and RabbitMQ installed. Test are run using py.test
+
+Python version: 2.6.6 Tornado version: 3.1
